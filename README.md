@@ -8,9 +8,13 @@ Proje HTML, CSS ve JavaScript kullanılarak geliştirilmiştir.
 ##  🎉 Özellikler 🎉
 <br/>
 ✨ Ürün Listeleme: Kullanıcılar ürünleri web arayüzünde görebilir.
+
 ✨ Sepete Ekleme: Her bir ürünü sepete ekleme imkanı.
+
 ✨ Ürün Sayısını Değiştirme: Sepetteki ürünlerin adetlerini artırıp azaltabilme.
+
 ✨ Fiyat Hesaplama: Sepet içindeki ürünlerin toplam fiyatını dinamik olarak hesaplama.
+
 
 ## ⚒️ Kullanılan Teknolojiler ⚒️
 <br/>

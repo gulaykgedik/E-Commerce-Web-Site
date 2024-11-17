@@ -1,22 +1,22 @@
-# E-Commerce Web Application
+# 🛍️ E-Commerce Web Application 🎀
 <br/>
 Bu proje, temel bir e-ticaret web uygulamasıdır. 
 Kullanıcılar ürünleri görüntüleyebilir, sepete ekleyebilir, 
 sepette ürün sayısını değiştirebilir ve toplam fiyatı görebilir. 
 Proje HTML, CSS ve JavaScript kullanılarak geliştirilmiştir.
 
-## Özellikler
+##  🎉 Özellikler 🎉
 <br/>
-Ürün Listeleme: Kullanıcılar ürünleri web arayüzünde görebilir.
-Sepete Ekleme: Her bir ürünü sepete ekleme imkanı.
-Ürün Sayısını Değiştirme: Sepetteki ürünlerin adetlerini artırıp azaltabilme.
-Fiyat Hesaplama: Sepet içindeki ürünlerin toplam fiyatını dinamik olarak hesaplama.
+✨ Ürün Listeleme: Kullanıcılar ürünleri web arayüzünde görebilir.
+✨ Sepete Ekleme: Her bir ürünü sepete ekleme imkanı.
+✨ Ürün Sayısını Değiştirme: Sepetteki ürünlerin adetlerini artırıp azaltabilme.
+✨ Fiyat Hesaplama: Sepet içindeki ürünlerin toplam fiyatını dinamik olarak hesaplama.
 
-## Kullanılan Teknolojiler
+## ⚒️ Kullanılan Teknolojiler ⚒️
 <br/>
-HTML: Sayfa yapısını oluşturmak için.
-CSS: Sayfa tasarımı ve stil uygulamaları için.
-JavaScript: Dinamik işlemler ve kullanıcı etkileşimleri için.
+✨ HTML: Sayfa yapısını oluşturmak için.
+✨ CSS: Sayfa tasarımı ve stil uygulamaları için.
+✨ JavaScript: Dinamik işlemler ve kullanıcı etkileşimleri için.
 
 ## Ekran Görüntüsü
 <br/>
